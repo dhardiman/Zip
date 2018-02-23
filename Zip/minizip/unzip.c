@@ -25,7 +25,7 @@
 #endif*/
 
 #include "zlib.h"
-#include "unzip.h"
+#include "mzunzip.h"
 
 #ifdef STDC
 #  include <stddef.h>
